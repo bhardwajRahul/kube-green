@@ -19,7 +19,6 @@ metadata:
   annotations:
     cert-manager.io/inject-ca-from: default/kube-green-serving-cert
     helm.sh/resource-policy: keep
-    creationTimestamp: null
   name: sleepinfos.kube-green.com
 spec:
   group: kube-green.com
